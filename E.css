@@ -112,7 +112,7 @@ header nav ul li a:hover {
 .banner{
     min-height: 100vh;
     width: 100%;
-    background-image: url("../E_images/homeless-beggar-man-sitting-outdoors-city-asking-money-donation-generative-ai_61243-7052.avif");
+    background-image: url("https://raw.githubusercontent.com/jatinrathore07/food-donation-website/refs/heads/main/homeless-beggar-man-sitting-outdoors-city-asking-money-donation-generative-ai_61243-7052.avif");
     background-size: cover;
     background-attachment: fixed;
 }
